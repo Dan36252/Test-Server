@@ -1,0 +1,13 @@
+{
+  "serverType": "node",
+  "domain": "https://test-server.example/",
+  "path": "/",
+  "rootfolder": "/",
+  "runfile": "/public/index.html",
+  "nodeCommand": "npm run start",
+  "cwd": "/",
+  "autoClear": true,
+  "usePeerServer": false,
+  "peerLayer": "nDrQ73",
+  "saveEnvironmentVariables": false
+}
